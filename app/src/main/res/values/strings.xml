@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">week_6_secret_message</string>
+    <string name="welcome_message">Welcome to the secret message app!
+        Use this app to encrypt a secret message.
+        Click on start button to begin.
+    </string>
+    <string name="start">Start</string>
+    <string name="message_hint">Please enter your secret message</string>
+    <string name="next">Next</string>
+    <string name="encrypt_text">Encrypted Message</string>
+    <string name="cancel">Cancel</string>
+</resources>
